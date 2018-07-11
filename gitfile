@@ -1,0 +1,2 @@
+将redis的bind 改为10.35.163.43
+redis的配置文件在/etc/redis/reids.conf
